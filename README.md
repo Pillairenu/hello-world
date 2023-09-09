@@ -12,6 +12,8 @@ My professional journey is defined by unwavering ambition. In every facet of my 
    - Passionate about creating websites that seamlessly blend functionality with visually appealing aesthetics.
    - Goal-oriented: Striving to craft user interactions that exceed expectations, leaving a lasting impression on the audience.
 **My Vision**
+
 `I am genuinely excited about pushing the boundaries of this constantly evolving tech industry. My goal is to make a meaningful impact by creating innovative digital experiences that resonate with users and enhance their digital journey.`
+
 **My Capstone project**
 [Coffee Luv Bug](https://learndigital.dev/students/renu-pillai/)
